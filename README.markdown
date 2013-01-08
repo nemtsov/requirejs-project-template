@@ -8,7 +8,7 @@ This is a simple project as that the RequireJS [optimization section](http://req
 
 Once you have the project cloned
 
-    git clone --recursive https://github.com/georgecalm/requirejs-project-template.git
+    git clone --recursive https://github.com/nemtsov/requirejs-project-template.git
 
 open **project-one/main.html** in the browser. Notice the number of CSS & JS files that it pulls **(8 in total)**. Then run: 
 
@@ -19,7 +19,7 @@ That will create a directory called **project-one-build/**. Open **project-one-b
 
 ## More
 
-If you'd like to use **dojo**, take a look at [this template for loading dojo using RequireJS](https://github.com/neonstalwart/dojo-requirejs-template).
+If you'd like to use **dojo**, take a look at [this template for loading dojo using RequireJS](https://github.com/csnover/dojo-boilerplate).
 
 
 ## License
